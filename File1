@@ -3,6 +3,8 @@ this is just a test
 this is another test
 testing on mcweb-et1 before upload block
 this is testing et1 after github.com/upload is blocked
-this is testing et1 after these are blocked:
+this is testing et1 after these are blocked in url.smartmatch
 github.com/*/edit
 github.com/*/save-tree
+
+This is after the above were blocked using url matches in list
